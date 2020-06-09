@@ -49,7 +49,7 @@
 
 > 초기구상은 stackover flow의 질문과 답변 페이지를 연상하면 좋을 것 같습니다.
 
-<img src="/Users/yeonseok/Library/Application Support/typora-user-images/image-20200609005607135.png" alt="image-20200609005607135" style="zoom:50%;" />
+<img width="690" alt="" src="https://user-images.githubusercontent.com/42382027/84171476-cdfe0280-aab5-11ea-88e9-c21cb2693484.png">
 
 
 
